@@ -1,14 +1,14 @@
-=== Easy AI Chat Embed===
+=== Easy AI Chat Embed ===
 Contributors: rankboostpro
 Tags: chatbot, embed, AI, chat
 Requires at least: 6.6
-Tested up to: 6.7.1
+Tested up to: 6.7.2
 Stable tag: 1.0.1
 Requires PHP: 7.0
-License: License: GPLv2
+License: GPLv2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Easy AI Chat Embed can integrate the powerful *Google *Gemini Chat into your posts and pages.
+Easy AI Chat Embed can integrate the powerful *Google *Gemini Chat agent into your posts and pages.
 
 == Description ==
 
@@ -46,13 +46,13 @@ Go to 'Settings' -> 'Easy AI Chat' and enter your desired colors in the color pi
 
 == Screenshots ==
 1. **Chat box** - Beautifully styled easy chat embeds.
-[![Chat box](assets/screenshot_1.png)](assets/screenshot_1.png)
+[![Chat box](assets/screenshot-1.png)](assets/screenshot-1.png)
 2. **Chat box sample output** - The embedded Google Gemini Chatbot on a WordPress page.
-[![Chat box](assets/screenshot_2.png)](assets/screenshot_2.png)
+[![Chat box](assets/screenshot-2.png)](assets/screenshot-2.png)
 3. **Admin settings** - Configure the API key and chat box appearance.
-[![Settings](assets/screenshot_3.png)](assets/screenshot_3.png)
+[![Settings](assets/screenshot-3.png)](assets/screenshot-3.png)
 4. **Customization setting** - Customize the color to match your website.
-[![Settings](assets/screenshot_4.png)](assets/screenshot_4.png)
+[![Settings](assets/screenshot-4.png)](assets/screenshot-4.png)
 
 == Changelog ==
 = 1.0.1 =
@@ -80,16 +80,3 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program. If not, see https://www.gnu.org/licenses/.
 
-In addition to the rights granted under the GNU General Public License v3.0, users of Auto Dark Chrome Extension are granted the following permissions:
-
-You may use this software for any purpose, including commercial use.
-
-
-You must include this license and copyright notice with each copy of the software you distribute.
-If you modify the software, you must indicate the changes made to the code.
-
-Any modifications or derivative works based on this software must also be released under the GNU General Public License v2.0.
-Disclaimer
-
-This software is provided "as is," without warranty of any kind, express or implied. The authors or copyright holders shall not be liable for any claim, damages, or other liability arising from the use of the software.
-For the full text of the GNU General Public License v2

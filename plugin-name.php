@@ -5,6 +5,8 @@
  * Version: 1.0.1
  * Author: <a href="https://rankboost.pro/easy-ai-chat-embed-pro/">Rank Boost Pro</a>
  * Text Domain: easy-ai-chat-embed
+ * License: GPLv2
+ * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  */
 
 // If this file is called directly, abort.
